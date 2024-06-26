@@ -33,4 +33,6 @@ console.log(customer_1.getName());
 customer_1.setAge(20);
 console.log(customer_1.age);*/
 
+let randomumber = Math.floor((Math.random()*10)*1);
+
 
